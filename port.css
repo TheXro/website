@@ -59,7 +59,6 @@ img {
     width:200px;
     height: 200px;
     border-radius: 50%;
-    float: right;
     transform: translateY(-13px);
     margin-right: 40px;
 }

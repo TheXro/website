@@ -36,16 +36,16 @@ li:hover {
 }
 .welcome{ 
     margin: 0;
-    padding-top: 90px;
+    padding-top: 8px;
     background-color: rgb(32, 50, 79);
 
 }
 .welcome-div{
-    margin: 0 auto;
+    margin: 20vh;
     color: hsl(65, 14%, 81%);
     font-size: 25px;
     text-align: center;
-    margin-top: 35vh;
+    margin-top: 39vh;
     padding-left: 20px;
     height: 500px;
 }

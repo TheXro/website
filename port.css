@@ -41,13 +41,12 @@ li:hover {
 
 }
 .welcome-div{
-    margin: 20vh;
     color: hsl(65, 14%, 81%);
     font-size: 25px;
     text-align: center;
-    margin-top: 50vh;
+    margin-top: 40vh;
     padding-left: 20px;
-    height: 500px;
+    height: 600px;
 }
 p{
     transform: translateY(-20px);
